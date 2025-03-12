@@ -5,7 +5,7 @@ import { CgChevronDoubleRightO } from "react-icons/cg";
 
 export default function Navbar() {
   return (
-    <nav className=' bg-purple-900 opacity-70 backdrop-blur-lg  shadow-lg'>
+    <nav className=' bg-[#FEFAFA]/50  backdrop-blur-sm  shadow-lg'>
         <div className="container max-w-full">
           <div className="flex items-center justify-between py-4 sm:py-6 md:py-8">
             <Image src={Logo} alt='Gotezu Logo' className='w-32 sm:w-36 md:w-40 h-auto' />
