@@ -22,34 +22,39 @@ export default function Hero() {
         </div>
 
           
-        <div className="py-8 px-4 bg-pink-800">
-        {/* Search Bar */}
-        <SearchBar />
-    
-        {/* Mockup Picture */}
-        <Mockup />
+        <div className="py-8 px-4 max-w-xl mx-auto md:max-w-8/10">
 
-        {/* CTA Button */}
-        <div className="flex items-center justify-center py-4">
-       <CtaBtn/>
-       </div>
-   
-    
-        
-        {/* Text Box 1 */}    
-       <Textbox1 />
-      
-       {/* Text Box 2 */}
-        <Textbox2 />
-       
-        {/* NumBox */}
-        <NumBox />
-
-        {/* Icon Box */}
-        <IconBox />
+        <div className="flex flex-col items-center justify-center py-8 gap-8 md:flex-row-reverse md:items-start md:justify-between">
+          <SearchBar /> 
+          <Textbox1 />
+        </div>
+        <div className="flex flex-col items-center justify-center py-8">
+          <Mockup />
+          <CtaBtn/>
+        </div>
+       <div className='sm:flex items-start justify-between'>
+       <div className="flex flex-col items-start justify-center py-8 gap-8 ">
+          <NumBox />
+          <Textbox2 />
           
-        {/* Social Icons Box */}
-        <SocialIconBox />
+        </div>
+        <div className="flex flex-col items-center justify-center py-8 gap-8">
+          <IconBox />
+          <SocialIconBox />
+        </div>
+       </div>
+         
+                         
+
+              
+        
+        
+
+        
+
+        
+          
+        
       
         </div>
     </div>
