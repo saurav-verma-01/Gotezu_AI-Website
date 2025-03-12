@@ -4,9 +4,9 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <>
-    <Banner />
-    <Navbar />
-    </>
+    <header className='sticky top-0'>
+        <Banner />
+        <Navbar />
+    </header>
   )
 }
