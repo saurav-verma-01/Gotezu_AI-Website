@@ -1,7 +1,7 @@
 
 export default function NumBox() {
   return (
-    <div className="text-white tracking-tight bg-black/50 py-8 px-8 w-max border-2 border-[#E9FF7A] rounded-xl mt-8 flex flex-col gap-4">
+    <div className="text-white tracking-tight bg-black/50 py-8 px-8 w-max border-2 border-[#E9FF7A] rounded-xl  flex flex-col sm:flex-row gap-4 md:flex-col">
             <div className="flex flex-col justify-center items-start gap-0">
                 <div className="text-3xl flex items-center justify-center">
                 <h2>20k</h2>

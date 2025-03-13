@@ -3,7 +3,7 @@ import { FiSearch } from "react-icons/fi";
 export default function SearchBar() {
   return (
    
-    <div className="max-w-sm md:max-w-full">
+    <div className="w-full">
         <form className="border-2 border-[#E9FF7A] rounded-xl py-1 pl-2 pr-4 text-sm flex items-center justify-between gap-2 text-white max-w-lg mx-auto bg-black/50 " >
             <input type="text" name="search-trainer" id="search-trainer" placeholder="Search Trainers" className="outline-none text-sm text-white py-1  placeholder:text-gray-300 pl-4" />
             
