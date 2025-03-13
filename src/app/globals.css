@@ -42,3 +42,7 @@ body {
 .logo-ticker-images {
   @apply h-16 w-auto md:h-20 lg:h-24 grayscale hover:grayscale-0
 }
+
+.features-card {
+  @apply shadow-lg bg-white py-8 px-5 flex flex-col gap-5 justify-center rounded-xl max-w-sm h-full
+}

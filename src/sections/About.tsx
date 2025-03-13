@@ -11,7 +11,7 @@ import { LuCircleArrowOutDownRight } from "react-icons/lu";
 
 export default function About() {
   return (
-    <div className='py-8 bg-[#F9F9F9]'>
+    <div className='py-8 bg-[#F9F9F9] lg:rounded-xl lg:shadow-sm'>
         <div className='max-w-[1380px] mx-auto grid grid-cols-1 place-items-center lg:grid-cols-2'>
             {/* Header Section */}
             <div className="py-8 text-center max-w-lg md:max-w-xl lg:max-w-3xl px-6 flex flex-col gap-8 lg:col-span-2 md:gap-10 md:py-10">

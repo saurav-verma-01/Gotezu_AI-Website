@@ -1,7 +1,9 @@
 import About from "@/sections/About";
+import Features from "@/sections/Features";
 import Header from "@/sections/Header";
 import Hero from "@/sections/Hero";
 import LogoTicker from '@/sections/LogoTicker';
+import MeetTrainers from "@/sections/MeetTrainers";
 
 
 
@@ -13,6 +15,8 @@ export default function page() {
       <Hero />
       <About />
       <LogoTicker />
+      <Features />
+      <MeetTrainers />
     </div>
    
     </>
