@@ -6,7 +6,6 @@ export default function MeetTrainers() {
   return (
     <div className='w-full bg-gradient-to-bl from-[#5239C3] to-[#AE5DD4]  py-4 lg:pb-0'>
         <div className="max-w-[1380px] mx-auto grid grid-cols-1 place-items-center relative">
-
         
         <div className="bg-black/50 py-6 w-full max-w-lg rounded-lg tracking-tight flex items-center justify-center lg:order-4 lg:max-w-full lg:rounded-none lg:bg-white/30 lg:py-12 lg:tracking-tighter ">
             <h3 className="text-2xl font-semibold text-white text-center max-w-[240px] lg:text-6xl lg:max-w-full">MEET OUR EXPERT TRAINERS</h3>

@@ -5,7 +5,7 @@ import { LuCircleArrowOutDownRight } from "react-icons/lu";
 
 export default function Features() {
   return (
-    <div className=' py-12 px-4 grid grid-cols-1 place-items-center bg-[#F9F9F9]  md:py-16 lg:rounded-xl lg:shadow-sm'>
+    <div className='py-12 px-4 grid grid-cols-1 place-items-center bg-[#F9F9F9] md:py-16 lg:rounded-xl lg:shadow-sm'>
 {/* */}
 <div className='max-w-[1380px] mx-auto'>
         <div className='text-center tracking-tight py-8 md:py-12 lg:py-20'>
