@@ -14,7 +14,7 @@ export default function MeetTrainers() {
         <Image src={Trainer} alt="Trainer Image" />
         </div>
         <div className="bg-black/40 w-full max-w-2xl py-5 px-6 text-center flex items-center justify-center text-white tracking-tight rounded-lg lg:order-1 lg:max-w-4xl lg:bg-white/10 lg:backdrop-blur-sm">
-        <p className="text-lg md:text-xl lg:text-3xl">Discover the perfect trainer for your corporate needs and elevate your team's potential today!</p>
+        <p className="text-lg md:text-xl lg:text-3xl">Discover the perfect trainer for your corporate needs and elevate your team&apos;s potential today!</p>
         </div>
         <div className='flex items-center justify-center mt-6 lg:order-3 lg:absolute bottom-32 lg:scale-110'>
                     <button className="cta-btn text-3xl md:text-4xl py-2 md:py-3 lg:text-3xl md:-rotate-3 lg:-rotate-5 scale-105 lg:scale-110 ">
