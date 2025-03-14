@@ -15,7 +15,7 @@ export default function Empower() {
             </div>
             <div className='empower-card'>
                 <h3 className='text-xl font-semibold md:text-2xl'>Diverse Training Categories</h3>
-                <p className='text-base md:text-lg'>At Explore a wide range of training categories tailored to meet your professional needs. Whether you're looking for leadership development or technical skills, we have something for everyone.</p>
+                <p className='text-base md:text-lg'>At Explore a wide range of training categories tailored to meet your professional needs. Whether you&apos;re looking for leadership development or technical skills, we have something for everyone.</p>
             </div>
             <div className='empower-card'>
                 <h3 className='text-xl font-semibold md:text-2xl'>Transparent Pricing Model</h3>

@@ -41,7 +41,7 @@ export default function About() {
                 <div className='p-4 bg-white  rounded-2xl shadow-md flex flex-col h-full max-w-[340px]'>
                     <FiSearch className='w-12 h-12 mb-6'/>
                     <h2 className='text-2xl mb-4'>Search & Explore</h2>
-                    <p className='text-lg flex-grow'>Browse through a diverse range of industry experts ready to elevate your team's skills.</p>
+                    <p className='text-lg flex-grow'>Browse through a diverse range of industry experts ready to elevate your team&apos;s skills.</p>
                 </div>
                 <div className='p-4 bg-white   rounded-2xl shadow-md flex flex-col h-full max-w-[340px]'>
                     <FaChalkboardTeacher className='w-12 h-12 mb-6'/>

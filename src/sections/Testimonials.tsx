@@ -8,7 +8,7 @@ import avatar7 from "@/assets/avatar-7.png";
 import avatar8 from "@/assets/avatar-8.png";
 import avatar9 from "@/assets/avatar-9.png";
 import Testimonial from "@/components/Testimonial";
-import Image from "next/image";
+ 
 
 
 const testimonials = [

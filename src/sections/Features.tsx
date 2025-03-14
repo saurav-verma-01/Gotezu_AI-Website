@@ -20,7 +20,7 @@ export default function Features() {
         </div>
         <div className='tracking-tight grid grid-cols-1 gap-8 place-items-center md:grid-cols-2 md:gap-5 lg:gap-8'>
             <div className='features-card '>
-                <h3 className='font-semibold text-xl'>Unlock Your Team's Potential</h3>
+                <h3 className='font-semibold text-xl'>Unlock Your Team&apos;s Potential</h3>
                 <p className='text-lg'>At Gotezu, we connect you with experienced trainers who deliver impactful, customized training solutions to help your team achieve lasting results and growth.</p>
             </div>
             <div className='features-card '>
